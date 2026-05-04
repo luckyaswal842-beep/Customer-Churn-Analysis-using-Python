@@ -12,37 +12,37 @@ Customer churn is a critical problem for subscription-based businesses, and this
 - Jupyter Notebook
 ## 🔍 Key Steps Performed
 1. Data Cleaning
-Handled missing values in TotalCharges
-Converted data types (object → float)
-Removed duplicates
-Transformed categorical variables (e.g., SeniorCitizen: 0/1 → Yes/No)
+- Handled missing values in TotalCharges
+- Converted data types (object → float)
+- Removed duplicates
+- Transformed categorical variables (e.g., SeniorCitizen: 0/1 → Yes/No)
 2. Exploratory Data Analysis (EDA)
-Customer churn distribution
-Churn analysis by:
-Gender
-Senior Citizen
-Contract Type
-Payment Method
-Tenure
-Services (Internet, Security, Tech Support, etc.)
+- Customer churn distribution
+- Churn analysis by:
+- Gender
+- Senior Citizen
+- Contract Type
+- Payment Method
+- Tenure
+- Services (Internet, Security, Tech Support, etc.)
 3. Data Visualization
-Count plots for categorical features
-Pie chart for churn percentage
-Histogram for tenure distribution
-Multi-panel analysis for service-based churn trends
+- Count plots for categorical features
+- Pie chart for churn percentage
+- Histogram for tenure distribution
+- Multi-panel analysis for service-based churn trends
 ## 📊 Key Insights
-Customers with month-to-month contracts have higher churn rates.
-Short tenure customers (1–2 months) are more likely to churn.
-Lack of Tech Support, Security, Backup, and Protection services increases churn.
-Customers using fiber optic internet show higher churn.
-Payment method also influences churn behavior.
-Gender has minimal impact on churn.
+- Customers with month-to-month contracts have higher churn rates.
+- Short tenure customers (1–2 months) are more likely to churn.
+- Lack of Tech Support, Security, Backup, and Protection services increases churn.
+- Customers using fiber optic internet show higher churn.
+- Payment method also influences churn behavior.
+- Gender has minimal impact on churn.
 ## 📈 Business Impact
 This analysis can help companies:
-Improve customer retention strategies
-Target high-risk customers
-Optimize service offerings
-Increase long-term revenue
+- Improve customer retention strategies
+- Target high-risk customers
+- Optimize service offerings
+- Increase long-term revenue
 
 ## 📌 Future Improvements
 - Build a Machine Learning model to predict churn
@@ -50,10 +50,10 @@ Increase long-term revenue
 - Perform feature engineering for better insights
 ## 👤 Author
 Lucky Aswal
-Aspiring Data Analyst | Python | SQL | Data Visualization
+- Aspiring Data Analyst | Python | SQL | Data Visualization
 
 ## ⭐ Why This Project Stands Out
-Real-world business problem (Customer Retention)
-End-to-end data analysis workflow
-Clean visualizations and insights
-Strong foundation for predictive modeling
+- Real-world business problem (Customer Retention)
+- End-to-end data analysis workflow
+- Clean visualizations and insights
+- Strong foundation for predictive modeling
