@@ -6,10 +6,10 @@ This project focuses on analyzing customer churn behavior using Python-based dat
 Customer churn is a critical problem for subscription-based businesses, and this analysis helps in understanding patterns that lead to customer loss.
 
 ## 🛠️ Tools & Technologies
-Python 🐍
-Pandas & NumPy (Data Cleaning & Manipulation)
-Matplotlib & Seaborn (Data Visualization)
-Jupyter Notebook
+- Python 🐍
+- Pandas & NumPy (Data Cleaning & Manipulation)
+- Matplotlib & Seaborn (Data Visualization)
+- Jupyter Notebook
 ## 🔍 Key Steps Performed
 1. Data Cleaning
 Handled missing values in TotalCharges
@@ -38,10 +38,22 @@ Customers using fiber optic internet show higher churn.
 Payment method also influences churn behavior.
 Gender has minimal impact on churn.
 ## 📈 Business Impact
-
 This analysis can help companies:
-
 Improve customer retention strategies
 Target high-risk customers
 Optimize service offerings
 Increase long-term revenue
+
+## 📌 Future Improvements
+- Build a Machine Learning model to predict churn
+- Deploy a dashboard using Power BI / Streamlit
+- Perform feature engineering for better insights
+## 👤 Author
+Lucky Aswal
+Aspiring Data Analyst | Python | SQL | Data Visualization
+
+## ⭐ Why This Project Stands Out
+Real-world business problem (Customer Retention)
+End-to-end data analysis workflow
+Clean visualizations and insights
+Strong foundation for predictive modeling
